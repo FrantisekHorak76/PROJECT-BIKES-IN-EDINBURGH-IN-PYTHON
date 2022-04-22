@@ -2,7 +2,8 @@
 Projekt jsem psal v Jupyter notebooku, který jsem spouštěl pod Anaconda Navigator. Výsledkem je soubor **ProjectPython_Bikes.ipynb**.
 Samotný soubor již obsahuje výsledky řešení i bez spouštění kódu. Na základě testování jsem měl někdy potíže při zobrazení mapových podkladů, když jsem scroloval nahoru a zase dolů v notebooku. Ale zdá se, že zde funguje to, když se na mapu najede a kolečkem myši se udělá zoom, pak se mapa znovu vykreslí. Pokud ani to nezafunguje, pak je nejlepší pustit celý kód znovu.
 
-Celý projekt je možné najít na tomto odkazu https://drive.google.com/drive/folders/1llNX4zMyeBPNW9_uBPvPGbhy_8fVPJig?usp=sharing. Je to dáno tím, že GitHub podporuje pouze soubory do 25MB a můj samotný notebook díky vizualizaci výsledků má skoro 47MB a zdrojový soubor edinburgh_bikes dokonce 101,5MB. Díval jsem se, že existuje řešení přes Git Large File Storage, ale díky tomu, že kód nebude upravovat  
+Vytvořený Jupyter notebook se v GitHubu nezobrazí, protože se jeho velikost díky vizualizaci výsledků pohybuje okolo 47MB a GitHub podporuje pouze soubory do velikosti 25MB. I samotný zdrojový soubor dat edinburgh_bikes má velikost 101,5MB. Pro uložení tak velikých souborů na GitHub jsem musel použít Git Large File Storage (LFS).  
+Z toho důvodu doporučuji vše stáhnout do svého PC.  
 
 OBSAH NOTEBOOKU
 ## 1. ZADÁNÍ PROJEKTU
