@@ -43,4 +43,8 @@ V obsahu notebooku lze najít:
 #### 3.7.1. Vytvoření tabulky pro zkoumání vývoje poptávky
 #### 3.7.2. Analýza vývoje poptávky
 #### 3.7.3. Vliv počasí na výpůjčku kol
+#### 3.7.3.1. Analýza jarního období
+#### 3.7.3.2. Analýza letního období
+#### 3.7.3.3. Analýza podzimního období
+#### 3.7.3.4. Analýza zimního období
 #### 3.7.4. Srovnání počtu výpůjček kol o víkendu a během pracovního týdne
