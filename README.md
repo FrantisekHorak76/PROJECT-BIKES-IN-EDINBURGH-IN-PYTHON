@@ -5,7 +5,7 @@ Samotný soubor již obsahuje výsledky řešení i bez spouštění kódu. Na z
 Vytvořený Jupyter notebook se v GitHubu nezobrazí, protože se jeho velikost díky vizualizaci výsledků pohybuje okolo 47MB a GitHub podporuje pouze soubory do velikosti 25MB. I samotný zdrojový soubor dat edinburgh_bikes má velikost 101,5MB. Pro uložení tak velikých souborů na GitHub jsem musel použít Git Large File Storage (LFS).  
 Z toho důvodu doporučuji vše stáhnout do svého PC.  
 
-# OBSAH NOTEBOOKU
+## OBSAH NOTEBOOKU
 ## 1. ZADÁNÍ PROJEKTU
 ## 2. ÚPRAVA DAT PRO DATOVOU ANALÝZU
 ### 2.1. SOUBOR EDINBURGH_BIKES.CSV
