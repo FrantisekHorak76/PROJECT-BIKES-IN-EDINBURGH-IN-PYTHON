@@ -1,8 +1,9 @@
 # PROJECT-BIKES-IN-EDINBURGH-WITH-PYTHON
 Projekt jsem psal v Jupyter notebooku, který jsem spouštěl pod Anaconda Navigator. Výsledkem je soubor **ProjectPython_Bikes.ipynb**.
 Samotný soubor již obsahuje výsledky řešení i bez spouštění kódu. Na základě testování jsem měl někdy potíže při zobrazení mapových podkladů, když jsem scroloval nahoru a zase dolů v notebooku. Ale zdá se, že zde funguje to, když se na mapu najede a kolečkem myši se udělá zoom, pak se mapa znovu vykreslí. Pokud ani to nezafunguje, pak je nejlepší pustit celý kód znovu.
-V obsahu notebooku lze najít: 
-## 1. ZADÁNÍ
+
+OBSAH NOTEBOOKU
+## 1. ZADÁNÍ PROJEKTU
 ## 2. ÚPRAVA DAT PRO DATOVOU ANALÝZU
 ### 2.1. SOUBOR EDINBURGH_BIKES.CSV
 #### 2.1.1. Načtení důležitých knihoven Pythonu pro řešení projektu a načtení souboru
