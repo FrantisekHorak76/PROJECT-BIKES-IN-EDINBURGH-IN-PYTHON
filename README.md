@@ -1,6 +1,6 @@
 # PROJECT-BIKES-IN-EDINBURGH-WITH-PYTHON
 Projekt jsem psal v Jupyter notebooku, který jsem spouštěl pod Anaconda Navigator. Výsledkem je soubor **ProjectPython_Bikes.ipynb**.
-Samotný soubor již obsahuje výsledky řešení i bez spouštění kódu. Z testování je někdy potíž při zobrazení mapových podkladů, ale zde funguje to, když se na mapu najede a kolečkem myši se udělá zoom, pak se mapa znovu vykreslí. Pokud ani to nezafunguje, pak je nejlepší pustit celý kód znovu.
+Samotný soubor již obsahuje výsledky řešení i bez spouštění kódu. Na základě testování jsem měl někdy potíže při zobrazení mapových podkladů, když jsem scroloval nahoru a zase dolů v notebooku. Ale zdá se, že zde funguje to, když se na mapu najede a kolečkem myši se udělá zoom, pak se mapa znovu vykreslí. Pokud ani to nezafunguje, pak je nejlepší pustit celý kód znovu.
 V obsahu notebooku lze najít: 
 ## 1. ZADÁNÍ
 ## 2. ÚPRAVA DAT PRO DATOVOU ANALÝZU
@@ -43,7 +43,7 @@ V obsahu notebooku lze najít:
 #### 3.7.1. Vytvoření tabulky pro zkoumání vývoje poptávky
 #### 3.7.2. Analýza vývoje poptávky
 #### 3.7.3. Vliv počasí na výpůjčku kol
-#### 3.7.3.1. Analýza jarního období
+  #### 3.7.3.1. Analýza jarního období
 #### 3.7.3.2. Analýza letního období
 #### 3.7.3.3. Analýza podzimního období
 #### 3.7.3.4. Analýza zimního období
