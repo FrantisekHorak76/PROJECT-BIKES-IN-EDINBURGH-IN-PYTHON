@@ -1,0 +1,98 @@
+,start_station_name,start_station_description,start_station_latitude,start_station_longitude,frequency_start_station
+0,Charlotte Square,North Corner of Charlotte Square,55.95233546161639,-3.207101172107286,8134
+1,St Andrew Square,North East corner,55.95474881217642,-3.192773668658787,12218
+2,Canonmills,near Tesco's,55.96280408759764,-3.196283585062929,9551
+4,Kings Building 2,Sanderson Building,55.92320215516664,-3.17164624536349,4096
+5,Kings Buildings 1,Grant Institute,55.92418540667696,-3.173830830087809,1936
+6,Kings Building 3,Kings Building House,55.92347880784664,-3.175384584907078,3176
+7,Pollock Halls,Pollock Halls Entrance,55.93996346972372,-3.171585934311565,9441
+8,Royal Commonwealth Pool,Royal Commonwealth Pool Entrance,55.93900024788877,-3.173923554315593,4782
+9,Meadows East,Melville Terrace,55.939809466328285,-3.182738850746432,17390
+10,Waverley Bridge,near the top of the South ramp,55.95134439884462,-3.191420998989883,8569
+11,City Chambers,City Chambers Quadrangle,55.95010933017899,-3.190257770093808,5836
+12,Portobello,Edinburgh Leisure Tumbles Centre,55.957004308392506,-3.116888118730116,4039
+14,Brunswick Place,Junction Brunswick Street and Elm Row,55.960929747664,-3.181005314780577,7574
+15,George Square,"George Square, south side in front of University library",55.94308406301113,-3.188311072722399,6097
+16,Bristo Square,"Bristo Square, near Potter Row",55.94600418964078,-3.188665492872815,12846
+17,Victoria Quay,Entrance to Scottish Government Office,55.97763778772698,-3.174115590621568,10662
+18,Fountainbridge,Fountainbridge by Gardner's Crescent,55.94335692764551,-3.209247501624645,8464
+19,Waverley Court,On Waverley Court forecourt,55.95173449698344,-3.18417853540609,2531
+20,Lauriston Place,near Chalmers Street,55.94477165233548,-3.197265856419562,6275
+21,Waverley Station,Near Calton Road Exit,55.952641035774384,-3.187526919462357,1910
+22,Stockbridge,Hamilton Place by Dean Bank Lane,55.95856558589723,-3.208070182227743,6219
+24,St Andrews House,beside Jacobs ladder,55.95316433242384,-3.181682340931843,3250
+30,Ocean Terminal,Debenhams / Puregym entrance,55.981286014792985,-3.176351263805259,5505
+31,Castle Street,Near Rose Street,55.95150073734976,-3.203183906525282,8923
+32,Bruntsfield,Corner of Bruntsfield Terrace and Bruntsfield Place,55.93715871276677,-3.206435329645956,2094
+34,Castle Terrace,Corner of Castle Terrace and Lady Lawson St,55.94676648672239,-3.202037829055143,4926
+35,Simon Square,Corner of Simon Square & Gilmour Street,55.944867799682754,-3.182670511194715,2656
+36,Warrender Park Road,Corner of Warrender Park Road & Spottiswoode Street,55.938363058645024,-3.198031182386103,4757
+37,Thirlestane Road,Corner of Thirlestane Road & St. Margaret's Place,55.93536510821717,-3.198671326704016,2055
+41,Dalry Road Lidl,outside Lidl,55.9417543014448,-3.222524291865397,4291
+42,Dundee Terrace,"Dundee Terrace outside ""glass supplies""",55.93972942415463,-3.220602995527315,8801
+44,Leith Walk,Leith Walk opposite Dalmeny Street,55.96503980507732,-3.176686414784853,7964
+45,Marchmont Crescent,Corner of Marchmont Crescent & Marchmont Road,55.93639749674367,-3.194252202886105,4109
+46,East London Street,Outside St. Mary's Primary School,55.95994339132352,-3.187329201962484,4239
+47,Orchard Brae House,Outside Orchard Brae House on Queensferry Road,55.95508276879095,-3.223634263956455,1436
+48,Inverleith Row,Corner of Inverleith Row & Inverleith Terrace,55.96414559786725,-3.202073560611438,4215
+49,South Trinity Road,Corner of South Trinity Road & Ferry Road,55.97126891219085,-3.207815717530479,5291
+50,Colinton Road,Colinton Road outside Starbucks,55.93403480186952,-3.2108032288005,3195
+51,Meadow Place,Corner of Meadow Place and Melville Drive,55.94030045743447,-3.194591930765,12464
+52,Morningside Road,Corner of Morningside Road & Morningside Park by M & S car park,55.92798551356313,-3.209738736635245,4856
+54,Causewayside,Causewayside outside NLS,55.93642987756881,-3.180114903557978,5331
+56,Dudley Gardens,Corner of Dudley Gardens on Newhaven Road,55.97592062794979,-3.191346079294362,2639
+58,Newkirkgate,19 point docking station beside queen victoria monument,55.97070402016615,-3.171623996101516,1437
+60,Dundas Street,Corner of Dundas Street & Henderson Row,55.96094446922441,-3.201386994249105,4177
+62,Cramond Foreshore,Cramond foreshore by turning circle,55.98002374180832,-3.300622016981151,7313
+63,Comely Bank Road,Between trees on Comely Bank Road,55.95940686974708,-3.215659820662267,3846
+65,Roseburn Street,Corner of Roseburn Street & Russell Gardens,55.94446626439512,-3.234541218248978,2286
+66,EICC,Between planters next to EICC,55.94604282192561,-3.210484908343801,4170
+67,Crichton Street,Corner of Crichton Street & Potterow,55.94474957118208,-3.186542135633317,3228
+68,Corstorphine Road,Outside Forestry & Land Scotland,55.94174288122498,-3.271484360775275,1763
+69,Tollcross,Outside Piccolino,55.94428069681837,-3.202964359237739,6740
+73,Murrayfield Tram,By the side of the station entrance,55.9419563895648,-3.237802024128314,1217
+74,Wester Coates Terrace,Corner of Wester Coates Terrace & Roseburn Terrace,55.9456092021698,-3.231715619159217,2525
+75,Gamekeeper's Road,Corner of Gamekeeper's Road & Whitehouse Road,55.96953169937321,-3.307305425252252,1581
+76,Gladstone Terrace,Corner of Gladstone Terrace & Sciennes ROad,55.93802439880083,-3.184979210204801,2635
+78,Craigleith Road,Craigleith road by bus stop,55.95661859471628,-3.237802968201094,1249
+79,Murrayfield,Riversdale Crescent,55.94476686576929,-3.243687888944919,1293
+80,Edinburgh Zoo,Outside zoo gatehouse,55.942221825711776,-3.268697484588187,1144
+84,Logie Green Road,Outside Lidl,55.96403450946105,-3.195673725279903,1727
+88,West Crosscauseway,Corner of West Crosscauseway & Buccleugh Street,55.94386198333096,-3.184972223259024,4844
+92,Hillside Crescent,East corner of Hillside Crescent & London Road,55.957792800284125,-3.175798619087572,4669
+97,Hunter Square,07 point angled physical docking station,55.94969158307013,-3.18781281937504,2679
+98,Grassmarket,West end of Grassmarket,55.947097278583385,-3.1972457326126,2973
+100,Bruntsfield links,Corner of Bruntsfield Terrace and Bruntsfield Place,55.93715871276677,-3.206435329645956,1236
+108,Queen Margaret University,Opposite Maggies student union,55.93193490858167,-3.073045771766146,1469
+111,Lothian Road,Outside the Usher Hall,55.94740919920712,-3.205765497136553,5472
+112,Milton Road - Edinburgh College,Milton Road Campus,55.94405135341408,-3.098567246199309,1214
+113,Kings Buildings - Murchison House,West end of campus,55.92446420087144,-3.178731512475451,1301
+117,Holyrood Road,Opposite St Leonards Land,55.94955950619123,-3.180413257527789,3912
+119,Belford Road,Outside Scottish National Gallery,55.95197357717703,-3.226124804664096,1116
+121,Haymarket Station,Haymarket Station,55.94558221753474,-3.218192059354351,3248
+124,Surgeons Hall,East side of Nicolson Street,55.94664279961712,-3.185474585938891,3216
+125,Portobello - Kings Road,Foot of Kings Road next to the promenade,55.95791540692348,-3.118332042090287,11843
+126,McDonald Road,Next to Fire Station,55.9640310527501,-3.185175372950425,3672
+127,Pleasance Courtyard,"Edinburgh University, The Pleasance",55.947566653309394,-3.181591941706529,1380
+130,Scotland Street,Corner with Royal Crescent,55.96037972054591,-3.195470336902758,2560
+131,Dean Street,Corner of Dean Park Mews,55.957278012740645,-3.214285387389054,1327
+132,Edinburgh Royal Infirmary,"Little France, Old Dalkeith Road, Edinburgh",55.92063236018849,-3.140540732733598,1417
+133,IGMM - Western General,The Institute of Genetics and Molecular Medicine,55.96264210870907,-3.231915547243943,2166
+134,Waitrose Comely Bank,On Fettes Avenue next to Waitrose,55.95953624971772,-3.223434402338853,2385
+135,Western General Hospital,Porterfield Road,55.963453810934496,-3.232909305683961,1892
+136,Meggetland,Meggetland Sports Complex,55.92758664038103,-3.23367105304419,2179
+137,Haymarket Terrace,Corner of Magdala Crescent,55.946063966641006,-3.223024024359574,2546
+138,Bruntsfield Links,Corner of Bruntsfield Links next to Public Toilets,55.937123239991095,-3.206431879393449,7001
+139,Balgreen Road,Opposite Jenners Depository,55.93894174548949,-3.251110776059022,1884
+141,Chambers Street,Outside National Museum,55.94760044619224,-3.188919736735215,2261
+142,Joppa,East end of Promenade,55.94894930668582,-3.094727261654725,3240
+143,Gorgie Road,Corner with McLeod Street,55.9387414422504,-3.229909254900902,2773
+145,Abbeyhill,Near Abbey Mount,55.95524788917224,-3.17221628009507,4686
+146,Dynamic Earth,"Outside Dynamic Earth, Holyrood Road",55.951089465236365,-3.17572460948655,4694
+148,Drumsheugh Place,Corner with Drumsheugh Gardens,55.95159412232485,-3.212354285094022,2866
+149,Boroughmuir,Off Gibson Terrace,55.94007146917616,-3.215335840688084,3976
+150,Duke Street,Junction with Easter Road,55.96901164826488,-3.16739470303429,7288
+157,Hopetoun Road,Junction with Farquhar Terrace/Boness Road,55.99018214620787,-3.404603924278717,1058
+159,Hawes Pier,Off Newhalls Road,55.99052952143077,-3.385596660576908,1643
+164,Leith Walk North,Next to Allander House,55.96791807044289,-3.17358629706473,1142
+167,Picardy Place,Outside Omni Centre,55.95653524179326,-3.18624761207468,1929

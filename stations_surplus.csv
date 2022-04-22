@@ -1,0 +1,30 @@
+,station_name,station_description,station_latitude,station_longitude,frequency_end_station,frequency_start_station,avg_day_end_station,avg_day_start_station,avg_day_different
+2,Victoria Quay,Entrance to Scottish Government Office,55.97763778772698,-3.174115590621568,15254,10662.0,15.0,10.0,5.0
+150,Duke Street,Junction with Easter Road,55.96901164826488,-3.16739470303429,11264,7288.0,11.0,7.0,4.0
+126,Portobello - Kings Road,Foot of Kings Road next to the promenade,55.95791540692348,-3.118332042090287,16656,11843.0,16.0,12.0,4.0
+1,Canonmills,near Tesco's,55.96280408759764,-3.196283585062929,11940,9551.0,12.0,9.0,3.0
+44,Leith Walk,Leith Walk opposite Dalmeny Street,55.96503980507732,-3.176686414784853,11052,7964.0,11.0,8.0,3.0
+30,Ocean Terminal,Debenhams / Puregym entrance,55.981286014792985,-3.176351263805259,7381,5505.0,7.0,5.0,2.0
+65,Cramond Foreshore,Cramond foreshore by turning circle,55.98002374180832,-3.300622016981151,8827,7313.0,9.0,7.0,2.0
+10,Stockbridge,Hamilton Place by Dean Bank Lane,55.95856558589723,-3.208070182227743,8212,6219.0,8.0,6.0,2.0
+137,Meggetland,Meggetland Sports Complex,55.92758664038103,-3.23367105304419,2860,2179.0,3.0,2.0,1.0
+68,Comely Bank Road,Between trees on Comely Bank Road,55.95940686974708,-3.215659820662267,5231,3846.0,5.0,4.0,1.0
+134,Edinburgh Royal Infirmary,"Little France, Old Dalkeith Road, Edinburgh",55.92063236018849,-3.140540732733598,1697,1417.0,2.0,1.0,1.0
+143,Joppa,East end of Promenade,55.94894930668582,-3.094727261654725,4052,3240.0,4.0,3.0,1.0
+148,Dynamic Earth,"Outside Dynamic Earth, Holyrood Road",55.951089465236365,-3.17572460948655,5824,4694.0,6.0,5.0,1.0
+103,Constitution Street,Next to Burns Statue,55.97544142756835,-3.166806411195239,1733,889.0,2.0,1.0,1.0
+86,IGMM,IGMM at Western General Hospital,55.96248692705142,-3.232031328469361,510,412.0,1.0,0.0,1.0
+78,Wester Coates Terrace,Corner of Wester Coates Terrace & Roseburn Terrace,55.9456092021698,-3.231715619159217,2699,2525.0,3.0,2.0,1.0
+136,Waitrose Comely Bank,On Fettes Avenue next to Waitrose,55.95953624971772,-3.223434402338853,2865,2385.0,3.0,2.0,1.0
+59,Newkirkgate,19 point docking station beside queen victoria monument,55.97070402016615,-3.171623996101516,2331,1437.0,2.0,1.0,1.0
+62,Dundas Street,Corner of Dundas Street & Henderson Row,55.96094446922441,-3.201386994249105,5258,4177.0,5.0,4.0,1.0
+57,Dudley Gardens,Corner of Dudley Gardens on Newhaven Road,55.97592062794979,-3.191346079294362,4267,2639.0,4.0,3.0,1.0
+48,Inverleith Row,Corner of Inverleith Row & Inverleith Terrace,55.96414559786725,-3.202073560611438,5472,4215.0,5.0,4.0,1.0
+47,South Trinity Road,Corner of South Trinity Road & Ferry Road,55.97126891219085,-3.207815717530479,6522,5291.0,6.0,5.0,1.0
+41,Dalry Road Co-op,By co-op (outside maplins),55.94271471556419,-3.221430982426,522,391.0,1.0,0.0,1.0
+40,Dalry Road Lidl,outside Lidl,55.9417543014448,-3.222524291865397,4933,4291.0,5.0,4.0,1.0
+29,Leith Links,Corner of Vanburgh Place and Lochend Road,55.96919856910954,-3.166884617023356,809,503.0,1.0,0.0,1.0
+28,"Waitrose, Comely Bank",Fettes Avenue,55.95950417668882,-3.223428055375961,749,484.0,1.0,0.0,1.0
+18,Brunswick Place,Junction Brunswick Street and Elm Row,55.960929747664,-3.181005314780577,8320,7574.0,8.0,7.0,1.0
+12,Portobello,Edinburgh Leisure Tumbles Centre,55.957004308392506,-3.116888118730116,5280,4039.0,5.0,4.0,1.0
+165,Leith Walk North,Next to Allander House,55.96791807044289,-3.17358629706473,1537,1142.0,2.0,1.0,1.0
