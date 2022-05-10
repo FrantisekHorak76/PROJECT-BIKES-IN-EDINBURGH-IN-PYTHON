@@ -1,7 +1,1 @@
-pandas
-math
-cmath
-numpy
-plotly.express
-plotly.graph_objects
-plotly.sublots
+
