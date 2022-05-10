@@ -86,7 +86,9 @@ st.markdown('Soubor obsahuje **438 259 záznamů od 15.9. 2018 – 30.6 2021.**'
 st.markdown('Záznam jedné výpůjčky obsahuje **13 různých informací.**')
 
 # Načtení souboru edinburgh_bikes.csv - převod některých sloupců na časové razítko a na číselné hodnoty.
-df = pd.read_csv("edinburgh_bikes.csv", delimiter=',', decimal=',')
+url='https://drive.google.com/file/d/1qTW2_VWzykj-n2u_nlLhz4xfcjr2BKAC/view?usp=sharing'
+url='https://drive.google.com/uc?id=' + url.split('/')[-2]
+df = pd.read_csv(url, delimiter=',', decimal=',')
 st.write(df.head())
 
 st.markdown("<a id='section2.1.2'></a>", unsafe_allow_html = True)
@@ -160,7 +162,9 @@ st.markdown("<a id='section2.2.'></a>", unsafe_allow_html = True)
 st.markdown("### 2.2. SOUBOR EDINBURG_WEATHER.CSV")
 st.markdown("<a id='section2.2.1'></a>", unsafe_allow_html = True)
 st.markdown("#### 2.2.1 Načtení souboru s převedením sloupce date na datový typ datetime ")
-df2 = pd.read_csv("edinburgh_weather.csv", delimiter=',', decimal=',', parse_dates=["date"])
+url='https://drive.google.com/file/d/1HvW8vv0NmHyH2cTgnzGXpkb80hRDQuDF/view?usp=sharing'
+url='https://drive.google.com/uc?id=' + url.split('/')[-2]
+df2 = pd.read_csv(url, delimiter=',', decimal=',', parse_dates=["date"])
 
 
 st.markdown("<a id='section2.2.2'></a>", unsafe_allow_html = True)
