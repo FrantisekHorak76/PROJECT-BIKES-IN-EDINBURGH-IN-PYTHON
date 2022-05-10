@@ -1,18 +1,20 @@
 # PROJECT-BIKES-IN-EDINBURGH-WITH-PYTHON
-Projekt jsem psal v Jupyter notebooku, který jsem spouštěl pod Anaconda Navigator. Výsledkem je soubor **ProjectPython_Bikes.ipynb**.
+Nejprve jsem projekt psal v Jupyter notebooku, který jsem spouštěl pod Anaconda Navigator. Výsledkem je soubor **ProjectPython_Bikes.ipynb**.
 Samotný soubor již obsahuje výsledky řešení i bez spouštění kódu. Na základě testování jsem měl někdy potíže při zobrazení mapových podkladů, když jsem scroloval nahoru a zase dolů v notebooku. Ale zdá se, že zde funguje to, když se na mapu najede a kolečkem myši se udělá zoom, pak se mapa znovu vykreslí. Pokud ani to nezafunguje, pak je nejlepší pustit celý kód znovu.
 
-Vytvořený Jupyter notebook se v GitHubu nezobrazí, protože se jeho velikost díky vizualizaci výsledků pohybuje okolo 47MB a GitHub podporuje pouze soubory do velikosti 25MB. I samotný zdrojový soubor dat edinburgh_bikes má velikost 101,5MB. Pro uložení tak velikých souborů na GitHub jsem musel použít Git Large File Storage (LFS).  
-Z toho důvodu doporučuji vše stáhnout do svého PC.  
+Vytvořený Jupyter notebook se v GitHubu nezobrazí, protože je již příliš veliký a složitý na vykreslování. Notebook doporučuji stáhnout do svého PC. 
 
-# OBSAH NOTEBOOKU
+Pokud byste ho chtěli znovu spustit i s kódem budete potřebovat dva zdrojové soubory dat. Zdrojový soubor dat edinburgh_bikes.csv má velikost 101,5MB. Pro uložení tak velikých souborů na GitHub je trochu problém, protože se normálně podporují soubory do 25MB. Pak existuje možnost použít Git Large File Storage (LFS), kterou jsem zkusil, ale bohužel při načtení a spuštění kódu vše nefungovalo správně. Z toho důvodu nabízím stažení zdrojových souborů dat z mého GoogleDisku: https://drive.google.com/drive/folders/1llNX4zMyeBPNW9_uBPvPGbhy_8fVPJig?usp=sharing
+
+Později jsem si chtěl ještě vyzkoušet prezentovat projekt pomocí webového rozhraní přes knihovnu Streamlit. Musím říci, že mě uchvátila, protože člověk nemusí stahovat žádný notebook, ale rovnou se podívat na výsledek na webu. 
+
+# OBSAH PROJEKTU
 ## 1. ZADÁNÍ PROJEKTU
 ## 2. ÚPRAVA DAT PRO DATOVOU ANALÝZU
 ### 2.1. SOUBOR EDINBURGH_BIKES.CSV
-#### 2.1.1. Načtení důležitých knihoven Pythonu pro řešení projektu a načtení souboru
-#### 2.1.2. Základní informace o získaných datech
-#### 2.1.3. Úprava datových typů
-#### 2.1.4. Analýza chybějících údajů
+#### 2.1.1. Základní informace o získaných datech
+#### 2.1.2. Úprava datových typů
+#### 2.1.3. Analýza chybějících údajů
 ### 2.2. SOUBOR EDINBURG_WEATHER.CSV
 #### 2.2.1. Načtení souboru s převedením sloupce date na datový typ datetime
 #### 2.2.2. Základní informace o získaných datech
