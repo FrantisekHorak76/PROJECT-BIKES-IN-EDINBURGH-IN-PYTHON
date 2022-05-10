@@ -1,4 +1,5 @@
 import streamlit as st
+st.set_page_config(layout="wide")
 st.markdown('# PROJEKT BIKES IN EDINBURGH - DATOVÁ AKADEMIE  ENGETO 2022')
 st.markdown('#### Pro řešení projektu používáme programovací jazyk Python a jeho knihovny Pandas, Math, Numpy a pro zobrazování grafů knihovnu Plotly.')
 
