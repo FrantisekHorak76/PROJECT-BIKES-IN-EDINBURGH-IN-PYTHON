@@ -6,7 +6,7 @@ Vytvořený Jupyter notebook se v GitHubu nezobrazí, protože je již příliš
 
 Pokud byste ho chtěli znovu spustit i s kódem budete potřebovat dva zdrojové soubory dat. Zdrojový soubor dat edinburgh_bikes.csv má velikost kolem 100MB. Pro uložení tak velikých souborů na GitHub je trochu problém, protože se normálně podporují soubory do 25MB. Pak existuje možnost použít Git Large File Storage (LFS), kterou jsem zkusil, ale bohužel při načtení a spuštění kódu vše nefungovalo správně. Z toho důvodu nabízím stažení zdrojových souborů dat z mého GoogleDisku: https://drive.google.com/drive/folders/1llNX4zMyeBPNW9_uBPvPGbhy_8fVPJig?usp=sharing
 
-**Později jsem si chtěl ještě vyzkoušet prezentovat projekt pomocí webového rozhraní přes knihovnu Streamlit. Musím říci, že mě uchvátila, protože člověk nemusí stahovat žádný notebook, ale rovnou se podívat na výsledek na webu. **
+**Později jsem si chtěl ještě vyzkoušet prezentovat projekt pomocí webového rozhraní přes knihovnu Streamlit. Musím říci, že mě uchvátila, protože člověk nemusí stahovat žádný notebook, ale rovnou se podívat na výsledek na webu.**
 
 # OBSAH PROJEKTU
 ## 1. ZADÁNÍ PROJEKTU
