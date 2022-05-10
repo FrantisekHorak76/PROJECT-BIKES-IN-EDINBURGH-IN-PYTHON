@@ -8,13 +8,13 @@ Pokud byste ho chtěli znovu spustit i s kódem budete potřebovat dva zdrojové
 
 **Později jsem si chtěl ještě vyzkoušet prezentovat projekt pomocí webového rozhraní přes knihovnu Streamlit. Musím říci, že mě uchvátila, protože člověk nemusí stahovat žádný notebook, ale rovnou se podívat na výsledek na webu.**
 
-# OBSAH PROJEKTU
-## 1. ZADÁNÍ PROJEKTU
-## 2. ÚPRAVA DAT PRO DATOVOU ANALÝZU
-### 2.1. SOUBOR EDINBURGH_BIKES.CSV
-#### 2.1.1. Základní informace o získaných datech
-#### 2.1.2. Úprava datových typů
-#### 2.1.3. Analýza chybějících údajů
+## OBSAH PROJEKTU
+### 1. ZADÁNÍ PROJEKTU
+### 2. ÚPRAVA DAT PRO DATOVOU ANALÝZU
+#### 2.1. SOUBOR EDINBURGH_BIKES.CSV
+##### 2.1.1. Základní informace o získaných datech
+##### 2.1.2. Úprava datových typů
+##### 2.1.3. Analýza chybějících údajů
 ### 2.2. SOUBOR EDINBURG_WEATHER.CSV
 #### 2.2.1. Načtení souboru s převedením sloupce date na datový typ datetime
 #### 2.2.2. Základní informace o získaných datech
