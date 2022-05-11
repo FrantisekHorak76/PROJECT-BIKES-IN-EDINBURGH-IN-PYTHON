@@ -2,6 +2,7 @@ import streamlit as st
 st.set_page_config(layout="wide")   # Nastavení Streamlitu, aby se vždy zobrazila široká obrazovka
 st.markdown('# PROJEKT BIKES IN EDINBURGH - DATOVÁ AKADEMIE  ENGETO 2022')
 st.markdown('#### Pro řešení projektu používáme programovací jazyk Python a jeho knihovny Pandas, Math, Numpy a pro zobrazování grafů knihovnu Plotly.')
+st.markdown('#### Zdrojový kód můžete nalézt [zde](https://github.com/FrantisekHorak76/Project-bikes-in-Edinburgh-with-Python.git)')
 
 st.markdown("## OBSAH")
 st.markdown("### [1. ZADÁNÍ](#section1)")
