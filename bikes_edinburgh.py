@@ -1,5 +1,5 @@
 import streamlit as st
-st.set_page_config(layout="wide")
+st.set_page_config(layout="wide")   # Nastavení Streamlitu, aby se vždy zobrazila široká obrazovka
 st.markdown('# PROJEKT BIKES IN EDINBURGH - DATOVÁ AKADEMIE  ENGETO 2022')
 st.markdown('#### Pro řešení projektu používáme programovací jazyk Python a jeho knihovny Pandas, Math, Numpy a pro zobrazování grafů knihovnu Plotly.')
 
@@ -7,16 +7,15 @@ st.markdown("## OBSAH")
 st.markdown("### [1. ZADÁNÍ](#section1)")
 st.markdown("### [2. ÚPRAVA DAT PRO DATOVOU ANALÝZU](#section2)") 
 st.markdown("####  [2.1. SOUBOR EDINBURGH_BIKES.CSV](#section2.1)")
-st.markdown("#####  [2.1.2. Základní informace o získaných datech](#section2.1.2)")
-st.markdown("#####  [2.1.3. Úprava datových typů](#section2.1.3)")
-st.markdown("#####  [2.1.4. Analýza chybějících údajů](#section2.1.4)")  
+st.markdown("#####  [2.1.1. Základní informace o získaných datech](#section2.1.1)")
+st.markdown("#####  [2.1.2. Úprava datových typů](#section2.1.2)")
+st.markdown("#####  [2.1.3. Analýza chybějících údajů](#section2.1.3)")  
 st.markdown("####  [2.2. SOUBOR EDINBURG_WEATHER.CSV](#section2.2)")
-st.markdown("#####  [2.2.1. Načtení souboru s převedením sloupce date na datový typ datetime](#section2.2.1)")
-st.markdown("#####  [2.2.2. Základní informace o získaných datech](#section2.2.2)")
-st.markdown("#####  [2.2.3. Úprava datových typů](#section2.2.3)")
-st.markdown("#####  [2.2.4. Analýza chybějících údajů](#section2.2.4)")
-st.markdown("#####  [2.2.5. Vytvoření průměrných hodnot na jednotlivé dny](#section2.2.5)")
-st.markdown("#####  [2.2.6. Spojení upravených tabulek do jedné](#section2.2.6)")   
+st.markdown("#####  [2.2.1. Základní informace o získaných datech](#section2.2.2)")
+st.markdown("#####  [2.2.2. Úprava datových typů](#section2.2.3)")
+st.markdown("#####  [2.2.3. Analýza chybějících údajů](#section2.2.4)")
+st.markdown("#####  [2.2.4. Vytvoření průměrných hodnot na jednotlivé dny](#section2.2.5)")
+st.markdown("#####  [2.2.5. Spojení upravených tabulek do jedné](#section2.2.6)")   
 st.markdown("### [3. DATOVÁ ANALÝZA - VÝPŮJČKY KOL V EDINBURGHU](#section3)")
 st.markdown("####  [3.1. VYTVOŘENÍ JEDINEČNÝCH STANIC POUŽÍVANÝCH PRO VÝPŮJČKU NEBO VRÁCENÍ](#section3.1)")
 st.markdown("####  [3.2. VÝPOČET VZDÁLENOSTÍ MEZI JEDNOTLIVÝMI STANICEMI VZDUŠNOU ČAROU](#section3.2)")
@@ -51,7 +50,7 @@ st.markdown("######    [3.7.3.4. Analýza zimního období](#section3.7.3.4)")
 st.markdown("#####    [3.7.4. Srovnání počtu výpůjček kol o víkendu a během pracovního týdne](#section3.7.4)")
 st.markdown("#####    [3.7.5. Vývoj výpůjček a vrácení kol v jednotlivých stanicích](#section3.7.5)")
 
-st.markdown("<a id='section1'></a>", unsafe_allow_html = True)
+st.markdown("<a id='section1'></a>", unsafe_allow_html = True)  
 st.markdown('## 1. ZADÁNÍ')
 st.markdown('V Edinburghu, stejně jako v dalších městech, funguje systém "bike sharing" - ve městě jsou stanice s koly, člověk si může nějaké půjčit a potom ho vrátit v nějaké další stanici. Problém je, že v některých stanicích se kola pravidelně hromadí a jinde naopak chybí. Provozovatel kol, firma Just Eat Cycles, zadala projekt, jehož cílem je systém zefektivnit.') 
 st.markdown('Vaším úkolem je zpracovat relevantní data a zjistit z nich informace užitečné pro zbytek týmu. Máte k dispozici data o všech výpůjčkách a data o počasí. Proveďte standardní deskriptivní statistiku dat. Také zjistěte minimálně následující informace:')
@@ -86,7 +85,7 @@ st.markdown('#### 2.1.1. Základní informace o získaných datech')
 st.markdown('Soubor obsahuje **438 259 záznamů od 15.9. 2018 – 30.6 2021.**')
 st.markdown('Záznam jedné výpůjčky obsahuje **13 různých informací.**')
 
-# Načtení souboru edinburgh_bikes.csv - převod některých sloupců na časové razítko a na číselné hodnoty.
+# Načtení souboru edinburgh_bikes.csv z Google drive
 url='https://drive.google.com/file/d/1qTW2_VWzykj-n2u_nlLhz4xfcjr2BKAC/view?usp=sharing'
 url='https://drive.google.com/uc?id=' + url.split('/')[-2]
 df = pd.read_csv(url, delimiter=',', decimal=',')
@@ -161,8 +160,7 @@ st.write(df_bikes.isna().sum())
 
 st.markdown("<a id='section2.2.'></a>", unsafe_allow_html = True)
 st.markdown("### 2.2. SOUBOR EDINBURG_WEATHER.CSV")
-st.markdown("<a id='section2.2.1'></a>", unsafe_allow_html = True)
-st.markdown("#### 2.2.1 Načtení souboru s převedením sloupce date na datový typ datetime ")
+# Načtení soubouru z Google drive
 url='https://drive.google.com/file/d/1HvW8vv0NmHyH2cTgnzGXpkb80hRDQuDF/view?usp=sharing'
 url='https://drive.google.com/uc?id=' + url.split('/')[-2]
 df2 = pd.read_csv(url, delimiter=',', decimal=',', parse_dates=["date"])
